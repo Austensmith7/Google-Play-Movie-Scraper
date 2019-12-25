@@ -2,7 +2,7 @@
 """
 Created on Wed Dec 18 19:18:23 2019
 
-@author: auste
+@author: austen
 """
 import requests
 from bs4 import BeautifulSoup
